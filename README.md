@@ -4,7 +4,7 @@ This is where i started my portfolio buildi gn when [download.more](https://www.
 ## project topic: the brainstorming
 ### project overview
 # Tools used
-- Ms excel for data cleaning
+- Ms excel for data cleaning [download](https://www.microsoft.com)
 - sql server (for querying and analysis
 - power bi
 - ms power point
